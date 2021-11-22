@@ -4,7 +4,7 @@
 
 Gerry Donnelly November 2021.
 
-### Summary of the Assignment
+### Summary of the Notebook
 
 The objective of this notebook is to provide a summary of the **numpy.random** package in Python and to demonstrate through examples some of the principal features of the package. There are 4 sections in the notebook as follows:
 
@@ -12,6 +12,7 @@ The objective of this notebook is to provide a summary of the **numpy.random** p
 - Section 2. Explain the use of the “Simple random data” and “Permutations” functions. 
 - Section 3. Explain the use and purpose of at least five “Distributions” functions. 
 - Section 4. Explain the use of seeds in generating pseudorandom numbers.
+
 
 The following are the pre-requisites to run the notebook:
 
@@ -28,8 +29,10 @@ The following are the pre-requisites to run the notebook:
 - seaborn
 - scipy.stats
 
-If these packages are not intalled it is recommended to install Ananconda, instructions on installation can be found [***here***](https://docs.anaconda.com/anaconda/install/index.html), as this has most of the commononly used Python packages. 
+If these packages are not intalled it is recommended to install Ananconda, instructions on installation can be found [***here***](https://docs.anaconda.com/anaconda/install/index.html), as this has most of the commononly used Python packages, including those listed above. 
 
 Alernatively they can be installed individually using pip install. 
 
 4. Open a Jupyter notebook (or Jupyter Lab) session on your PC, open and run the file **random.ipynb**. 
+
+5. All of the assignment text and code is contained in the notebook, it will run thorugh from start to finish with no user input needed. 
